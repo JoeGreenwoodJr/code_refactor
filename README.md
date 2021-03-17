@@ -7,7 +7,7 @@
     <li>Improved spacing of various elements.</li>
     <li>Improved accessibility by adding 'alt' attributes to images and ensuring sequential order of headings.</li>
     <li>Consolidated elements within the CSS that required the same effects.</li>
-    <li>Replaced div elements with semantic elements.</li>
+    <li>Replaced some div elements with semantic elements.</li>
 </ol>
 <br>
 <h3>A link to the finished website can be found <a href="https://joegreenwoodjr.github.io/code_refactor/">here.</h3>
