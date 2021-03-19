@@ -8,7 +8,7 @@
         <li>Improved accessibility by adding 'alt' attributes to images and ensuring sequential order of headings.</li>
         <li>Consolidated elements within the CSS that required identical effects.</li>
         <li>Replaced some div elements with semantic elements.</li>
-    <   li>Removed some unnecessary code.</li>
+        <li>Removed some unnecessary code.</li>
         <li>Added descriptive comments to CSS</li>
         <li>Modified repository readme.</li>
         <li>Added a meyer reset CSS.</li>
